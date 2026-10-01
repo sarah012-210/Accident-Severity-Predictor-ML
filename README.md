@@ -14,7 +14,7 @@ This project provides a comprehensive machine learning pipeline and exploratory 
 
 ---
 
-## 🛠️ Key Features & Methodology
+##  Key Features & Methodology
 
 1. **Target Leakage Prevention**: Excluded post-accident features such as `Distance(mi)` and `Description` to build realistic, forward-looking predictive models.
 2. **Feature Engineering**:
