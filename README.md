@@ -1,7 +1,3 @@
-Here is a complete `README.md` formatted specifically for your **[US Accidents Analysis & Severity Prediction](https://www.kaggle.com/code/sarahmsalah/us-accidents/edit)** notebook project on Kaggle.
-
----
-
 # US Traffic Accident Severity Prediction & Hotspot Analysis
 
 ## Overview
